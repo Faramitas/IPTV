@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 ,纯享4K 4K超高清
+http://39.135.138.8:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+
+#EXTINF:-1 ,北京IPTV+ 4K超高清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+
+#EXTINF:-1 ,CCTV-4K 4K超高清
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1 ,BesTV 记录 4K超高清
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
+#EXTINF:-1 ,BesTV 电影 4K超高清
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+
+#EXTINF:-1 ,爱上4K 4K超高清
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+
+#EXTINF:-1 ,4K花园 4K超高清
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+
+#EXTINF:-1 ,欢笑剧场 4K超高清
+http://58.200.190.80/hls/hls185a97.m3u8
